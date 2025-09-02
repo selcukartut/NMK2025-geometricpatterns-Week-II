@@ -1,0 +1,1 @@
+This course explores geometry as art through both manual and digital methods. Participants will draw patterns by hand using compass and ruler, then translate these relations into computer code, rendering images that connect traditional craftsmanship with computational creativity.
